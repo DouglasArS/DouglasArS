@@ -9,6 +9,7 @@ I'm Douglas Araújo, I'm from Fortaleza, Ceará, Brazil. I'm computer science st
 - 🔭 I’m currently working on LAURA Laboratory
 - 🌱 I’m currently learning **Auto Machine Learning and Deep Learning**
 - 👯 I’m looking to collaborate on **data science and AI projects**
+- 📄 My most recent paper: [Cooperative Observation of Malicious Targets in a 3D Urban Traffic Environment Using UAVs](https://ieeexplore.ieee.org/document/9605390/authors#authors)
 - 💬 Ask me about **Python, data science, and machine learning.**
 - 📫 How to reach me **douglas.as.016@gmail.com**
 - 📄 Know about my experiences [www.linkedin.com/in/douglas-ar-silva](www.linkedin.com/in/douglas-ar-silva)

@@ -47,7 +47,7 @@ I'm Douglas Araújo, I'm from Fortaleza, Ceará, Brazil. I'm computer science st
 #### 🔗 **Connect with me**:
 
 <p align="left">
-<a href="www.linkedin.com/in/douglas-ar-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas araújo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/douglas-ar-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas araújo" height="30" width="40" /></a>
 <a href="https://instagram.com/douglas.ar.silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="douglas.ar.silva" height="30" width="40" /></a>
 <a href="https://medium.com/@douglas.ar.silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@douglas.ar.silva" height="30" width="40" /></a>
 <a href="https://discord.gg/Douglas\ Araújo#1962" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Douglas Araújo#1962" height="30" width="40" /></a>

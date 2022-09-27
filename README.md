@@ -10,7 +10,7 @@ I'm Douglas Araújo, I'm from Fortaleza, Ceará, Brazil. I'm computer science st
 - 🌱 I’m currently learning **API creation, encryption and database**
 - 👯 I’m looking to collaborate on **web development project**
 - 📄 My most recent paper: [Cooperative Observation of Malicious Targets in a 3D Urban Traffic Environment Using UAVs](https://ieeexplore.ieee.org/document/9605390)
-- 💬 Ask me about **Python, API, Web, datbase, data science.**
+- 💬 Ask me about **Python, API, Web, database, data science.**
 - 📫 How to reach me **douglas.as.016@gmail.com**
 - 📄 Know about my experiences [www.linkedin.com/in/douglas-ar-silva](www.linkedin.com/in/douglas-ar-silva)
 - ⚡ Hobbies **I ❤️ reading 📚 and graphic design**

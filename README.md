@@ -6,7 +6,7 @@
 <!-- personal description -->
 I'm Douglas Araújo, I'm from Fortaleza, Ceará, Brazil. I'm computer science student at Ceará State University (UECE). I'm an associate researcher LAURA Laboratory at the Graduate Program in Computer Science, UECE. There I work with auto machine learning (AutoML). I am passionate about data science and artificial intelligence.
 
-- 🔭 I’m currently working on LAURA Laboratory
+- 🔭 I’m currently working on @larces-uece
 - 🌱 I’m currently learning **Auto Machine Learning and Deep Learning**
 - 👯 I’m looking to collaborate on **data science and AI projects**
 - 📄 My most recent paper: [Cooperative Observation of Malicious Targets in a 3D Urban Traffic Environment Using UAVs](https://ieeexplore.ieee.org/document/9605390)

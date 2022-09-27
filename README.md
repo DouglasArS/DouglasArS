@@ -6,11 +6,11 @@
 <!-- personal description -->
 I'm Douglas Araújo, I'm from Fortaleza, Ceará, Brazil. I'm computer science student at Ceará State University (UECE). I'm backend developer on Computer Networks and Security Laboratory (LARCES) at the Graduate Program in Computer Science, UECE. There I work with API creation, encryption and database. I am passionate about data science and artificial intelligence.
 
-- 🔭 I’m currently working on @larces-uece
-- 🌱 I’m currently learning **Auto Machine Learning and Deep Learning**
-- 👯 I’m looking to collaborate on **data science and AI projects**
+- 🔭 I’m currently working on **Computer Networks and Security Laboratory (LARCES)**
+- 🌱 I’m currently learning **API creation, encryption and database**
+- 👯 I’m looking to collaborate on **web development project**
 - 📄 My most recent paper: [Cooperative Observation of Malicious Targets in a 3D Urban Traffic Environment Using UAVs](https://ieeexplore.ieee.org/document/9605390)
-- 💬 Ask me about **Python, data science, and machine learning.**
+- 💬 Ask me about **Python, API, Web, datbase, data science.**
 - 📫 How to reach me **douglas.as.016@gmail.com**
 - 📄 Know about my experiences [www.linkedin.com/in/douglas-ar-silva](www.linkedin.com/in/douglas-ar-silva)
 - ⚡ Hobbies **I ❤️ reading 📚 and graphic design**

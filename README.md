@@ -1,7 +1,8 @@
-<!-- Header profile -->
+<!-- Header profile 
 <p align="center">
   <img src="https://github.com/DouglasArS/DouglasArS/blob/main/assets/header_github.gif" alt="Hi, I'm Douglas a data science student from Brazil 🇧🇷">
 </p>
+-->
 
 <!-- personal description -->
 I'm Douglas Araújo, I'm from Fortaleza, Ceará, Brazil. I'm computer science student at Ceará State University (UECE). I'm backend developer on Computer Networks and Security Laboratory (LARCES) at the Graduate Program in Computer Science, UECE. There I work with API creation, encryption and database. I am passionate about data science and artificial intelligence.
